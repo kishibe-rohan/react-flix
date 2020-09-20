@@ -22,3 +22,4 @@ The app is broken down into 5 components:
 - **Rows:** Seperates the page into categories: Trending,Action,Comedy,etc.. and each row has its own unique key and fetchUrl from where it fetches its movies
 - **RowItems:** The actual individual movies in each row,that have an unique key and image attribute.
 
+[Reference](https://www.youtube.com/watch?v=XtMThy8QKqU)
