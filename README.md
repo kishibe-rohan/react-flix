@@ -1,6 +1,6 @@
 # ReactFlix #
 
-Netflix FrontEnd Clone that leverages the concept of React Hooks and uses th TMDb API to fetch data.    
+Netflix FrontEnd Clone that leverages the concept of React Hooks and uses the TMDb API to fetch data.    
 
 ![Re](https://i.ibb.co/6W01F64/flix.png)
 
