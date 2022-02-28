@@ -1,20 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
 # ReactFlix #
 
 Netflix FrontEnd Clone that leverages the concept of React Hooks and uses th TMDb API to fetch data.    
+
+![Re](https://i.ibb.co/bHs5Yrp/flix.png)
+
 The app is broken down into 5 components:
 - **App Body:** The body of the app that contains all other components as children.
 - **Navbar:** The navbar of the app that contaisn teh app logo and user avatar. (no functionality)
