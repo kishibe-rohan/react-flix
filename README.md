@@ -1,9 +1,7 @@
 # ReactFlix #
 
 Netflix FrontEnd Clone that leverages the concept of React Hooks and uses th TMDb API to fetch data.    
-
 ![Re](https://i.ibb.co/bHs5Yrp/flix.png)
-
 The app is broken down into 5 components:
 - **App Body:** The body of the app that contains all other components as children.
 - **Navbar:** The navbar of the app that contaisn teh app logo and user avatar. (no functionality)
